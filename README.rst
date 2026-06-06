@@ -4,6 +4,8 @@ aifiles
 
 Prompts, skills and configuration of AI agents.
 
+**This repository has been merged into** `dotfiles`_ **and is now archived.**
+
 I use...
 ========
 
